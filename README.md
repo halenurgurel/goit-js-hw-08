@@ -112,8 +112,6 @@ By completing this project, I practiced:
 
 ---
 
----
-
 ## 👩‍💻 Author
 
 **Halenur Gürel**  
