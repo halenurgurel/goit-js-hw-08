@@ -92,6 +92,8 @@ function onEscPress(event) {
 
 This satisfies the requirement that keyboard events are only active while the modal is visible.
 
+---
+
 ## 🎉 Summary
 
 By completing this project, I practiced:
